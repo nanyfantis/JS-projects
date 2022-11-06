@@ -1,2 +1,4 @@
-This project was created with JS,CSS,HTML and Bootstrap.
-It was used the Node.js and Express.js as well.
+It's a Signup Web app using Mailchimp API.
+Its Purpose is to sign people up to my mailing list.
+Frontend:HTML,CSS, Bootstrap
+Backend: JS, Node.js and Express.js 
